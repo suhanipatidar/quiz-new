@@ -39,5 +39,13 @@ This is a simple **Quiz Website** built using **HTML, CSS, and JavaScript**. It 
 3. Click **Start Quiz** and begin answering the questions.
 4. View your **score** and try again if needed.
 
+## Screenshots
+![Screenshot_30-1-2025_211243_suhanipatidar github io](https://github.com/user-attachments/assets/0c796262-32c5-4663-bf51-8e252496fa87)
+![Screenshot_30-1-2025_211223_suhanipatidar github io](https://github.com/user-attachments/assets/61916411-a17b-41ee-8d75-e434c507598f)
+![Screenshot_30-1-2025_211150_suhanipatidar github io](https://github.com/user-attachments/assets/48ee3ad1-a35c-4cf1-85d4-d966515cba27)
+
+
+
+
 
 
